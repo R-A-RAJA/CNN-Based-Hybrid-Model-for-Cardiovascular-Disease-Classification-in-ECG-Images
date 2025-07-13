@@ -1,4 +1,4 @@
-# 🫀 Optimized CNN-Based Hybrid Model for Multi-Label Classification of Cardiovascular Diseases in 12-Lead ECG Images
+# Optimized CNN-Based Hybrid Model for Multi-Label Classification of Cardiovascular Diseases in 12-Lead ECG Images
 
 ## 📘 Overview
 
